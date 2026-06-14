@@ -1,0 +1,23 @@
+# 编译输出文件
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# VS 临时文件
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+
+# 数据文件
+*.dat
+
+# 其他
+Thumbs.db
+Desktop.ini
